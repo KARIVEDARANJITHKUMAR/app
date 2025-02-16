@@ -1,0 +1,53 @@
+.projects-align {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 30px;
+    height: 150px;
+
+  }
+  
+  .each-project {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 29.5px;
+      background-color: #191e25;
+      border-radius: 20px;
+      width: 30%;
+      height: 350px;
+      margin-top: 10px;
+      margin-left: 5px;
+      justify-content: center;
+  }
+
+  .projects-bg-container{
+    background-color: black;
+    height: 140vh;
+    width: 100vw;
+    padding: 10px;
+  }
+
+  .each-project:hover {
+    box-shadow: #525CEB 0px 50px 100px -20px, #525CEB 0px 30px 60px -30px, #525CEB 0px -1px 4px 0px inset;
+  } 
+  
+  .projects-image{
+    height: 270px;
+    width: 270px;
+
+  }
+  .project-button{
+    color: #ffffff;
+    background-color: #525CEB;
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    align-items: center;
+    align-self: center;
+    padding-left: 15px;
+    text-align: center;
+  }

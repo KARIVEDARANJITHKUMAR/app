@@ -10,7 +10,7 @@ const About = () => (
             </div>
             <div>
                 <h1 className="about-description-heading">
-                    Myself KARIVEDA RANJITH KUMAR and i am <br/>pursuing my B-Tech Degree in the Department of<br/>Computer Science and Engineering in Kalasalingam<br/>Academy of research and Education,KrishnaKovil<br/>
+                    Myself KARIVEDA RANJITH KUMAR and i am pursuing my B-Tech Degree in the Department of Computer Science and Engineering in Kalasalingam Academy of research and Education,KrishnaKovil
                 </h1>
             </div>
         </div>

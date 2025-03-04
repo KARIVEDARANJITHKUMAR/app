@@ -12,6 +12,10 @@ class Projects extends Component  {
     onClickVeiw3 = () =>{
         window.open("https://todoranjith.ccbp.tech/")
     }
+    onClickVeiw4 = () =>{
+        window.open("https://jobbyranjith.ccbp.tech/")
+    }
+
 
 
 
@@ -50,7 +54,7 @@ class Projects extends Component  {
                     <img src="https://res.cloudinary.com/edu123/image/upload/v1735306875/static_gw5wor.png" alt="html-image"className="projects-image"/>
                     <div>
                         <p className="skill-title">React JS Projects</p>
-                        <button className="project-button" onClick={this.onClickVeiw2}>View Project</button>
+                        <button className="project-button" onClick={this.onClickVeiw4}>View Project</button>
     
                     </div>
                 </div>
